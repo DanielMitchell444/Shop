@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+	<title>Customer Info</title>
+    <link rel = "stylesheet" href = "info.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script> 
+   <script type = "text/javascript" src = "info.js"></script>
+  <script type = "text/javascript" src = "jquery-2.1.4.js"></script>
+
+   <div id = "Header">
+ <ul>
+ 	<li><a href = "website.html">HOME</a></li>
+ 	<li><a href = "shopPage.html">SHOP</a></li>
+ 	<li><a href = "#About">ABOUT</a></li>
+ 	<li><a href = "#head">CONTACT</a></li>
+ 	<li><a href = "Checkout.html"><i class="fas fa-shopping-cart"></i></li></a>
+
+  </ul>
+ </div>
+</head>
+
+<body>
+<div ng-controller = "" id = "container">
+<div id = "row">
+<form name = myForm ng-app = "">
+<input id = "hi" ng-model = "user" type = "email" name = "email" placeholder= "Email">
+<span style = "color:red" ng-show = "myForm.email.$error.email">Not a valid email address</span>
+
+<br></br>
+<input id = "bye" type = "textbox" name = "password" placeholder= "Password">
+<button id = "login">Log-In</button>
+<button id = "Forgot">Forgot Password</button>
+<button id = "emails">Email</button>
+<h3>Guest Checkout</h3>
+<p>This way, you can proceed to checkout without making an
+ <br></br>
+ account with us</p>
+ <button id = "guest">Continue as guest</button>
+</form>
+</div>
+</div>
+
+<div id = "border">
+<h1>Please Sign In</h1>
+</div>
+
+<div id = "border2">
+<h2>Returning Customers</h2>
+</div>
+
+<script>
+v	
+</script>
+</body>
+</html>

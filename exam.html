@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ng-app = "app3">
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular-animate.js"></script>
+<script type = "text/javascript" src = "exam1.js"></script>
+ <head>
+  <title>AngularJS Tutorial 3</title>
+  
+ </head>
+
+ <body>
+
+     <div id = "groceryList" ng-controller = "gListCtrl">
+      
+
+      <h3 class = "ListTitle">{{groceries.length}} Groceries to Get</h3>
+      
+      <ol>
+        <li>{{groceries[0].item}}</li>
+      </ol>
+     </div>
+
+
+  </body>
+  </html>

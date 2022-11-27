@@ -1,0 +1,739 @@
+body{
+  position: relative;
+	background-image: url("https://i.ibb.co/wK1MCwN/shoe-model.jpg");
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	background-size: cover, contain, contain;
+	background-position: top, 640px 890px;
+	width: 885px, 500px;
+	height: 666px;
+  margin: 0;
+  
+  background: #8e9eab; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8e9eab, #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 0px;    
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-attachment: scroll;
+
+}
+
+ul {
+list-style-type: none;
+position: fixed;
+margin: -20s;
+padding:0;
+background-color: #000000;
+display: block;
+overflow: hidden;
+opacity: 0.7;
+top: -20px;
+right: 0px;
+width: 104.3%;
+height: 102px;
+z-index: 10;
+overflow-x: hidden;
+overflow-y: scroll;
+  
+}
+
+li {
+	float: left;
+	opacity: 1.0;
+	height: 20%;
+	width: 10%;
+  
+}
+
+li a {
+
+ margin-right: 172px;
+ margin-top: 12px;
+ display: inline-block;
+ top: 0;
+ width: 100%;
+ display: grid;
+ grid-template-rows: 50px 1fr;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-align: center;
+        color: #A29C9C;
+        text-decoration: none;
+        padding: 0 10px;
+        font: : normal normal normal 18px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+        margin-bottom: 5px;
+        letter-spacing: normal;
+        margin: 10 30px;
+        position: relative;
+        right: -680px;
+        top: 40px;
+        border: none;
+}
+
+li a:hover {
+  
+}
+
+.header img{
+	display: block;
+}
+
+img{
+   position: relative;
+  width: 140px;
+  top: 500px;
+  right: -75px;
+  height: 110px;
+}
+
+h1{
+ text-align: center;
+ font-size: 90px;
+ padding: 0;
+ color: white;
+ position: relative;
+ top: 250px;
+ line-height: normal;
+     padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+
+}
+
+h1{
+	position:relative;
+	top: 300px;
+	text-align: center;
+	font: normal normal normal 90px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+	color: white;
+	letter-spacing: normal;
+}
+
+.shop{
+	color: white;
+	border: none;
+	text-decoration: none;
+	position: relative;
+	top: 270px;
+	left: 600px;
+	height: 20px;
+	width: 100px;
+	align-items: center;
+	padding: 14px 40px;
+}
+
+p{
+ position: relative;
+ top: 1500px;
+}
+
+.body{
+
+	
+}
+
+.container h2{
+	position: relative;
+	top: 900px;
+	color: white;
+	text-align: center;
+	left: -500px;
+	letter-spacing: 0.1em;
+	letter-spacing: normal;
+	    font: normal normal normal 60px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+}
+
+.container a{
+	text-decoration: none;
+	position: relative;
+	color: white;
+	padding-left:600px;
+	padding-top: 100px;
+	padding-bottom: 1000px;
+	font-size: 30px;
+	top: 250px;
+}
+.body a{
+	position: relative;
+	padding-left: 200px;
+	padding-bottom: 400px;
+	top: 900px;
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
+
+.body h1{
+ position: relative;
+ top: 150px;
+ left: -350px;
+ letter-spacing: 0.1em;
+ text-align: center;
+ color: #EEE6E6;
+     font: normal normal normal 50px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+
+
+}
+
+
+.body h2{
+	position: relative;
+	top: 130px;
+	left: 240px;
+	color: white;
+	font-size: 24px;
+}
+
+.body #image4{
+  top: 677px;
+  right: -698px;
+  height: 800px;
+  width: 650px;
+}
+
+.pictures #image3{
+ width: 456px;
+ left: 892px;
+ top: 486px;
+ height: 500px;
+
+
+}
+
+.pictures #image2{
+  top: 486px;
+  left: 18px;
+  width: 450px;
+  height: 500px;
+}
+
+.pictures #image1{
+  position: relative;
+  top: -18px;
+  left: -15px;
+  height: 500px;
+  width: 37%;
+  overflow: hidden;
+}
+
+
+
+
+.pictures:hover .img{
+
+}
+
+
+  #pictures4 #myImg{
+  	position: relative;
+  	width: 300px;
+  	height: 250px;
+  	top: 1000px;
+  	right: -300px;
+
+  }
+
+  #picture6 #myImg3{
+  	position: relative;
+  	top: -250px;
+  	height: 250px;
+  	width: 300px;
+  	left: 845px;
+  }
+
+  #head{
+
+ 
+
+
+  }
+
+  #head h1{
+  	color: blue;
+  }
+
+
+  
+
+  #footer h1{
+  	position: relative;
+  	top: -1420px;
+   left: 168px;
+  	font: normal normal normal 60px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+    color: #EEE6E6;
+    font-size: 60px;
+}
+
+ #footer h2{
+  position: relative;
+  top: -1310px;
+  margin-left: 355px;
+ 	text-align: center;
+  color: white;
+  font-size: 22px;
+ }
+
+ #footer h3{
+  position: relative;
+  color: white;
+  left: 747px;
+  top: -1320px;
+ }
+#head p{
+	position: relative;
+	color: white;
+	top: -1180px;
+  line-height: 30.8px;
+	right: -745px;
+	font-size: 22px;
+  margin: 0px;
+  padding: 0px;
+}
+
+  #footer p{
+  	position: relative;
+  	color: blue;
+  	letter-spacing: none;
+  	font: normal normal normal 22px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+  }
+
+  #footer input[type = "text"]  {
+position: relative;
+top: -1610px;
+left: 200px;
+margin-top: 10px
+color: #A29C9C;
+background-color: rgba(20, 20, 20, 1);
+height: 50px;
+width: 395px;
+
+  }
+
+#footer input[name = "email"]{
+ position: relative;
+top: -1557px;
+left: -199px;
+margin-top: 10px
+color: #A29C9C;
+background-color: rgba(20, 20, 20, 1);
+height: 45px;
+width: 395px;
+
+ }
+#footer input[name = "subject"]{
+position: relative;
+left: -598px;
+top: -1510px;
+color: #A29C9C;
+background-color: rgba(20, 20, 20, 1);
+height: 45px;
+width: 395px;
+}
+
+#footer input[name = "message"]{
+	position: relative;
+	left: 200px;
+	top: -1510px;
+	height: 150px;
+}
+
+#footer .Submit{
+	position: relative;
+	left: 95px;
+	top: -1400px;
+	font: normal normal normal 22px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+	width: 100px;
+}
+
+#footer p{
+	text-align: center;
+}
+    #header h1{
+    position: relative;
+    text-align: center;
+    font-size: 60px;
+    top: -700;
+    }
+
+    #header h2{
+     position: relative;
+     text-align: center;
+     left: -25px;
+     top:  -730px;
+     color: white;
+    }
+
+    #header h3{
+    	position: relative;
+    	text-align: center;
+        color: white;
+        font-size: 36px;
+        top: 400px;
+    }
+
+
+    /* Style the Image Used to Trigger the Modal */
+#myImg {
+  position: relative;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  top: 900px;
+  height: 200px;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+#pictures4 #myImg{
+	position: relative;
+	top: 250px;
+	left: 250px;
+  width: 20%;
+  height: 250px;
+}
+
+#Hi{
+	
+}
+
+#picture5 #myImg2{
+	position: relative;
+	left: 530px;
+	width: 300px;
+	top: 0px;
+	height: 250px;
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0px;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+  margin: auto;
+  position: relative;
+  top: 0px;
+  display: block;
+  height: 500px;
+  left: -100px;
+  width: 100%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption { 
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+
+/* The second model */
+.modal2 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0px;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content2 {
+  margin: auto;
+  position: relative;
+  top: 0px;
+  display: block;
+  height: 500px;
+  left: -70px;
+  width: 100%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption2 {
+ margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content2, #caption2 { 
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close2 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close2:hover,
+.close2:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#myImg2 {
+  position: relative;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  top: 1000px;
+  height: 200px;
+}
+
+#myImg2:hover {opacity: 0.7;}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content2 {
+    width: 100%;
+  }
+}
+
+  #myImg3{
+	position: relative;
+	top: 0px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.3s
+	height: 200px;
+}
+
+#myImg:Hover{
+	opacity: 0.7;
+}
+
+.modal3{
+	display: none;
+	position: fixed;
+	z-index: 1;
+	padding-top: 100px;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgb(0,0,0);
+	background-color: rgba(0,0,0,0.9);
+}
+
+
+.model-content3{
+	position: relative;
+	top: 0px;
+	height: 500px;
+	margin: auto;
+	display: block;
+	width: 100%;
+	max-width: 700px;
+
+}
+
+#caption3{
+	margin: auto;
+	display: block;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content3, #caption3 { 
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close3 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close3:hover,
+.close3:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content3 {
+    width: 100%;
+  }
+}
+.icon-bar img{
+	justify-content: end;
+
+}
+
+.aboutme img{
+	height: 200px;
+}
+
+#icon-bar h1{
+	color: white;
+	text-align: center;
+}
+
+#Hi img{
+	position: relative;
+	top: -100px;
+}
+
+ .container h2{
+	position: relative;
+	top: -200px;
+	color: blue;
+	text-align: center;
+}
+
+#head h1{
+	position: relative;
+	text-align: center;
+	color: blue;
+	top: 600px;
+}
+
+#head h4{
+	text-align: center;
+    position: relative;
+    top: -200px;
+}
+
+
+#footer #h1{
+	text-align: center;
+	color: blue;
+}
+
+.body a{
+  position: relative;
+  color: white;
+  top: 120px;
+  left: 50px;
+}
+
+
+#About #hi {
+  position: relative;
+  top: -400px;
+  left: -5px;
+  width: 50%;
+  height: 100%;
+}
+
+#About #yes{
+  position: relative;
+  top: -1070px;
+  left: 660px;
+  height: 100%;
+  width: 51%;
+}
+
+#About #re{
+  position: relative;
+  top: -1580px;
+  left: -295px;
+  font-size: 50px;
+}
+
+#About #h{
+  position: relative;
+  top: -1580px;
+  margin: 0px;
+  padding: 0px;
+  font-size: 19px;
+  left: 245px;
+  color: white;
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+.whitebox{
+  background-color: grey;
+}
+

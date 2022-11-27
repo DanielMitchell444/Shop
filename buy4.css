@@ -1,0 +1,324 @@
+body{
+background-color: black;
+}
+
+#container{
+}
+
+#border{
+ position: relative;
+ top: -1145px;
+ border: 1px solid grey;
+ color: grey;
+ width: 100%;
+}
+
+#border2{
+	position: relative;
+	left: 800px;
+	border: 1px dotted grey;
+	width: 38%;
+	top: -950px;
+}
+
+#container .show{
+	position: relative;
+	text-decoration: none;
+	outline: none;
+	border: none;
+	background-color: white;
+	left: 145px;
+	top: -470px;
+}
+
+#border3{
+ position: relative;
+ left: 800px;
+ top: -880px;
+	width: 38%;
+	border: 1px dotted grey;
+}
+
+#border4{
+	border: 1px dotted grey;
+	position: relative;
+	width: 38%;
+	left: 800px;
+	top: -770px;
+}
+
+#container h1{
+	position: relative;
+	font-size: 2.5em;
+	margin-left: 797px;
+	top: 50px;
+	color: white;
+}
+
+#container h2{
+    position: relative;
+   font-size: 15px;
+   left: 800px;
+   top:  30px;
+   color: white;
+
+}
+
+#container h3{
+	position: relative;
+	color: white;
+	left: 800px;
+	top: -715px;
+	font-size: 16px;
+	font-weight: 700px;
+}
+
+#container h4{
+	position: relative;
+	color: white;
+	left: 797px;
+	top: -580px;
+}
+#container #Size{
+	position: relative;
+	height: 20%;
+	top: -810px;
+	left: 420px;
+	width: 361.375px;
+	height: 39px;
+	font-size: 16px;
+	width: 20%;
+	bottom: 100%;
+	border-bottom: 1px solid transparent;
+}
+
+#container #Desc{
+	position: relative;
+	color: white;
+	top: -400px;
+	left: -2px;
+}
+
+#container #Cart{
+	position: relative;
+	top: -720px;
+	left: -70px;
+	width: 160.641px;
+	height: 48px;
+	background-color: #D3D3D3;
+	font-color: black;
+}
+#color .img{
+	position: relative;
+	display: inline;
+	margin: 2px;
+	top: -950px;
+	left: 800px;
+	height: 51px;
+	width: 51px;
+}
+
+#color .img2{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -952px;
+	left: 800px;
+}
+
+#color .img3{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -952px;
+	left: 800px;
+}
+
+
+#color .img4{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -952px;
+	left: 800px;
+}
+
+#color .img5{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -980px;
+	left: 800px;
+}
+
+#color .img6{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -980px;
+	left: 800px;
+}
+
+#color .img7{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -980px;
+	left: 800px;
+}
+
+#color .img8{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -980px;
+	left: 800px;
+}
+
+
+
+#color .img9{
+	position: relative;
+	display: inline;
+	height: 51px;
+	width: 51px;
+	top: -995px;
+	left: 803px;
+}
+
+#color .img10{
+ position: relative;
+ height: 51px;
+	width: 51px;
+	top: -995px;
+	left: 803px;
+}
+
+#color .img11{
+	position: relative;
+	width: 51px;
+	top: -995px;
+	left: 803px;
+}
+
+#color .img12{
+	position: relative;
+	width: 51px;
+	top: -995px;
+	left: 803px;
+}
+
+#color .img13{
+	position: relative;
+	width: 51px;
+	top: -995px;
+	left: 803px;
+}
+
+#color .img14{
+    position: relative;
+	width: 51px;
+	top: -995px;
+	left: 803px;
+}
+#container .Image{
+	position: relative;
+	top: -90px;
+	margin-top: 20px;
+	margin-left: 5px;
+	height: 654px;
+	width: 654px;
+	font-size: 16px;
+}
+
+.checked{
+	position: relative;
+	color: orange;
+}
+#container p{
+	position: relative;
+	margin-left: 800px;
+	top: -760px;
+	color: white;
+}
+
+body{
+overflow-y: scroll;
+overflow-x: hidden;
+}
+
+#container select{
+	position: relative;
+	top: 300px;
+	margin-left: 600px;
+	font-family: ariel;
+	background-color: grey;
+
+}
+
+#hi #h2{
+	position: relative;
+	color: blue;
+	top: 0px;
+}
+
+
+ul {
+list-style-type: none;
+position: relative;
+margin: -20s;
+padding:0;
+background-color: #000000;
+display: block;
+overflow: hidden;
+opacity: 0.7;
+top: -20px;
+right: 30px;
+width: 104.3%;
+height: 102px;
+z-index: 50;
+background-attachment: scroll;
+  
+}
+
+li {
+	float: left;
+	opacity: 1.0;
+	height: 20%;
+	width: 10%;
+  
+}
+
+li a {
+
+ margin-right: 172px;
+ margin-top: 12px;
+ display: inline-block;
+ top: 0;
+ width: 100%;
+ display: grid;
+ grid-template-rows: 50px 1fr;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-align: center;
+        color: #A29C9C;
+        text-decoration: none;
+        padding: 0 10px;
+        font: : normal normal normal 18px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+        margin-bottom: 5px;
+        letter-spacing: normal;
+        margin: 10 30px;
+        position: relative;
+        right: -680px;
+        top: 40px;
+        border: none;
+}

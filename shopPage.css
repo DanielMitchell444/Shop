@@ -1,0 +1,1081 @@
+body{
+overflow-y: scroll;
+overflow-x: hidden;
+background-color: black;
+}
+
+#container select{
+    position: relative;
+    top: 200px;
+    margin-left: 600px;
+    font-family: ariel;
+    background-color: grey;
+
+}
+
+#container img{
+    position: relative;
+    top: -293px;
+    left: 5px;
+}
+
+ul {
+list-style-type: none;
+position: relative;
+margin: -20s;
+padding:0;
+background-color: #000000;
+display: block;
+overflow: hidden;
+opacity: 0.7;
+top: -20px;
+right: 30px;
+width: 104.3%;
+height: 102px;
+z-index: 50;
+background-attachment: scroll;
+  
+}
+
+li {
+    float: left;
+    opacity: 1.0;
+    height: 20%;
+    width: 10%;
+  
+}
+
+li a {
+
+ margin-right: 172px;
+ margin-top: 12px;
+ display: inline-block;
+ top: 0;
+ width: 100%;
+ display: grid;
+ grid-template-rows: 50px 1fr;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-align: center;
+        color: #A29C9C;
+        text-decoration: none;
+        padding: 0 10px;
+        font: : normal normal normal 18px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+        margin-bottom: 5px;
+        letter-spacing: normal;
+        margin: 10 30px;
+        position: relative;
+        right: -680px;
+        top: 40px;
+        border: none;
+}
+
+#filter a{
+    position: absolute;
+    color: #589bc6;
+    top: 720px;
+    left: 14px;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    line-height: 1.5625em;
+    display: flex;
+}
+
+#filter a{
+    position: relative;
+    top: 465px;
+    left: 13px;
+      text-decoration: none;
+
+    border: none;
+    background-color: transparent;
+    outline: none;
+    line-height: 1.5625em;
+    color: #589bc6;
+    font-size: 1em;
+    display: flex;
+}
+
+#buttons #buttonsss{
+    position: absolute;
+    top: 800px;
+    left: 13px;
+    text-decoration: none;
+line-height: 1.5625em;
+color: #589bc6;
+font-size: 1em;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+#buttons #buttonn{
+    line-height: 1.5625em;
+    color: #589bc6;
+    font-size: 1em;
+    position: absolute;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    top: 830px;
+    left:  13px;
+
+}
+#Product{
+  color: white;
+
+}
+
+#w #Manufacturer{
+    position: relative;
+    color: white;
+    top: 580px;
+    left: 12px;
+    font-size: 20px;
+
+}
+
+#buttons p{
+
+position: relative;
+color: blue;
+
+}
+
+
+
+#buttons #Manufacturers:hover{
+    background-color: #3e8e41;
+}
+
+#text{
+    position: relative;
+    display: none;
+    color: red;
+    text-align: right;
+}
+li a:hover {
+  
+}
+
+#container select{
+    position: relative;
+    top: -50px;
+    text-decoration: none;
+    border: 0px;
+    outline: 0px;
+    background-color: grey;
+}
+
+#container h1{
+    position: absolute;
+    top:  120px;
+    font-size: 2.125em;
+    letter-spacing: .0625em;
+    color: white;
+}
+
+#container h2{
+    position: absolute;
+    color: white;
+    float: left;
+    top: 70px;
+    left: 15px;
+
+}
+
+#container #hi{
+    position: absolute;
+    top: 220px;
+    margin-top: 200px;
+    left: 20px;
+    font-size: 1.25em;
+    line-height: 30px;
+    color: white;
+}
+
+#container h3{
+    position: absolute;
+    float: left;
+    left: 20px;
+    font-size: 1.25em;
+    line-height: 30px;
+    top: 290px;
+    color: white;
+}
+
+#container #Filter{
+    position: relative;
+    top:  10px;
+    left: 480px;
+    width: 230px;
+    color: white;
+    height: 20px;
+}
+
+#container #item3{
+
+}
+
+#containerrr a{
+  position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 40px;
+    width: 41px;
+    border: 1px solid #bebebe;
+    background-color: #f1f2ed;
+    color: #589bc6;
+    font-size: 0.875em;
+    line-height: 41px;
+    list-style: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    top: -2175px;
+    left: 12px;
+    margin: -1px;
+
+}
+
+#container a{
+    position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-weight: 400px;
+    border-right-style: solid;
+    margin: 1px;
+    float: left;
+    padding-bottom: 0px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    height: 41px;
+    width: 41px;
+    border: 1px solid #bebebe;
+    color: #589bc6;
+    background-color: #f1f2ed;
+    font-size: 0.875em;
+    line-height: 41px;
+    left: 12px;
+    list-style: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    top: -255px;
+}
+
+#container #a{
+position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 41px;
+    width: 41px;
+    border: 1px solid #bebebe;
+    color: #589bc6;
+    font-size: 0.875em;
+    line-height: 41px;
+    list-style: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    top: -190px;
+    left: -250px;
+    margin: -1px;
+
+
+}
+
+#containerr .mens{
+   position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 41px;
+    width: 41px;
+    border: 1px solid #bebebe;
+    color: #589bc6;
+    font-size: 0.875em;
+    line-height: 41px;
+    list-style: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    top: -190px;
+    left: -250px;
+    margin: -1px;
+   
+}
+
+#container .mens{
+ position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 41px;
+    width: 41px;
+    border: 1px solid #bebebe;
+    color: #589bc6;
+    font-size: 0.875em;
+    line-height: 41px;
+    list-style: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    top: -190px;
+    left: 12px;
+    margin: -1px;
+}
+ 
+
+}
+
+#buttons #myText{
+    position: absolute;
+    height: 25px;
+    top: -700px;
+    left: 9.5px;
+    background-image: url("https://img.icons8.com/material-outlined/30/000000/cancel.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    text-align: center;
+    cursor: pointer;
+}
+
+/*Blue shoes */
+#hi .image1{
+   position: relative;
+   top: -610px;
+   left: 318px;
+   width: 330px;
+   height: 350px;
+   display: inline;
+   vertical-align: top;
+   margin-top: 100px;
+   float: left;
+   padding: 5px;
+   overflow-y: scroll;
+   white-space: nowrap;
+
+
+
+}
+
+#hi .image2{
+    position: relative;
+   top: -440px;
+   left: 60px;
+   width: 330px;
+   height: 350px;
+   display: inline-block;
+   vertical-align: top;
+   margin-top: 100px;
+   float: left;
+   padding: 5px;
+   overflow-y: scroll;
+   white-space: nowrap;
+}
+
+#hi #image17{
+    position: relative;
+    top: 500px;
+    left: -353px;
+    width: 330px;
+    height: 350px;
+}
+
+
+#Converse .image3{
+    display: inline;
+    margin: 3px;
+     position: relative;
+    height: 350px;
+    width: 330px;
+    left: 320px;
+    top: -500px;
+}
+
+#Nike .image4{
+    position: relative;
+    width: 330px;
+    height: 350px;
+    left: 320px;
+    top: -400px;
+    display: inline;
+    margin: 3px;
+}
+/* Black Converse */
+#Converse #image2{
+    position: relative;
+    width: 330px;
+    height: 350px;
+    left: 1004px;
+    top: -734px;
+}
+
+/*White converse right side*/
+#hi #image3{
+    position: absolute;
+   
+    height: 350px;
+    top: 1337px;
+    left:  1012px;
+    width:330px;
+
+}
+
+/*Yellow Converse */
+
+#hi #image12{
+    position: relative;
+    height: 350px;
+    width: 330px;
+    left: 326px;
+    top: -140px;
+  
+}
+
+/*White converse facing left*/
+#hi #image5{
+    position: relative;
+    height: 350px;
+    width: 330px;
+    left:  -353px;
+    top: -140px;
+    
+}
+
+/*Brown Shoes */
+#hi #image6{
+    position: relative;
+    top: -415px;
+    left: 330px;
+    height: 350px;
+    width: 330px;
+}
+
+/* Anti Heroes */
+#hi #image10{
+    position: relative;
+    top: -415px;
+    left: 320px;
+    height: 350px;
+    width: 330px;
+}
+
+/* Brow and blue shoes */
+#hi #image11{
+    position: relative;
+    top: -280px;
+    left: -14px;
+    height: 350px;
+    width: 330px;
+}
+
+/*WMV Heroes */
+
+#hi #image7{
+    position: relative;
+    top: -50px;
+    left: -360px;
+    height: 350px;
+    width: 330px;
+}
+
+/*Black Nike */
+
+#hi #image14{
+    position: relative;
+    left: -687px;
+    top: 360px;
+    height: 350px;
+    width: 330px;
+}
+
+/*Blue Nike*/
+#hi #image15{
+    position: relative;
+    height: 350px;
+    width: 330px;
+    left: 330px;
+    top: 5px
+}
+
+/*MultiColored Nike */
+#hi #image16{
+    position: relative;
+    height: 350px;
+    width: 330px;
+    left: 670px;
+    top: 5px;
+}
+
+
+#container{
+    margin: 0px;
+}
+
+#images{
+}
+
+#container{
+}
+
+#container #name{
+    text-align: center;
+    display: block;
+    color: blue;
+    width: 22%;
+
+}
+
+#container .caption{
+    
+    color: blue;
+    width:22%;
+    display: block;
+    text-align: justify;
+    margin: 0 auto;
+
+
+}
+
+#button
+
+#container p{
+ position: relative;
+ top: 100px;
+ left: 100px;
+ display: block;
+ margin-left: 200px;
+
+}
+
+#Product{
+    position: absolute;
+    top: -200px
+    color: white;
+    display: inline-block;
+}
+#Paragraphs #Product{
+    position: relative;
+    float: left;
+    left: 148px;
+    top: 700px;
+    margin-left: 246px;
+    color: blue;
+    text-align: center;
+}
+
+#searchbar input[type = text]{
+    float: right;
+    position: relative;
+    top:  300px;
+}
+
+#P #Money{
+    position: relative;
+    color: purple;
+    top: 490px;
+    left: 150px;
+    display: inline;
+    margin-left: 290px;
+
+}
+
+
+#Ps .y{
+    position: absolute;
+    top: 737px;
+    left: 1150px;
+    color: white;
+}
+
+#Ps .s{
+    position: absolute;
+    top: 730px;
+    left: 430px;
+    color: white;
+}
+
+#P .f{
+    position: relative;
+    color: blue;
+    top: 360px;
+    left: 460px;
+}
+
+#P .g{
+    position: relative;
+    color: blue;
+    top: 325px;
+    left: 800px;
+}
+#Ps .t{
+    position: absolute;
+    top: 730px;
+    left: 800px;
+    color: white;
+}
+
+#P .e{
+    position: relative;
+    top: -800px;
+}
+
+#P .o{
+    color: blue;
+    position: relative;
+    left: 1140px;
+    top: 0px;
+}
+
+#row2
+
+
+#border{
+    position: relative;
+    border: 1px solid blue;
+    top: 100px;
+}
+
+#border2{
+    position: absolute;
+    border: 1px dashed grey;
+    width: 22%;
+    top: 400px;
+}
+
+
+
+
+
+#buttons span{
+     position: absolute;
+  top: 0;
+  right: 0;
+  margin: 8px 0;
+  padding: 13px 15px;
+  
+  color: teal;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+#border5{
+    position: absolute;
+    border: 1px dashed grey;
+    width: 22%;
+    top: 625px;
+
+}
+
+#border7{
+
+}
+
+#border8{
+    position: relative;
+    border: 1px dashed grey;
+    width: 22%;
+    top: -2000px;
+}
+
+#dropdown #drpdwn{
+    color: white;
+}
+
+#buttons .fas fa-minus{
+    position: absolute;
+    top: 0px;
+}
+
+#hey #a{
+    position: relative;
+    color: white;
+    left: 428px;
+    top: -960px;
+    font-size: 16px;
+}
+
+#hey #b{
+    position: relative;
+    color: blue;
+    left: 450px;
+    top: 200px
+    font-size: 16px;
+}
+
+#hey #c{
+    position: relative;
+    color: white;
+    top: -1045px;
+    left: 750px;
+    font-size: 16px;
+
+}
+
+#hey #d{
+    position: relative;
+    left: 800px;
+    top: -1040px;
+    color: white;
+    font-size: 16px;
+}
+
+#Yo #e{
+    position: relative;
+    color: white;
+    font-size: 16px;
+    left: 1115px;
+    top: -1122px;
+}
+
+#Yo #f{
+    position: relative;
+    color: white;
+    top: -1100px;
+    left: 1140px;
+    font-size: 16px;
+}
+
+#Yo #g{
+    color: white;
+    position: relative;
+    top: -690px;
+    left: 428px;
+    font-size: 16px;
+}
+
+#Yo #h{
+    color: white;
+    position: relative;
+    top: -690px;
+    font-size: 16px;
+    left: 450px;
+
+}
+
+#h #i{
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    left: 770px;
+    top: 1700px;
+}
+
+#h #j{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: -755px;
+    left: 790px;
+}
+
+#h #k{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: -825px;
+    left: 1110px;
+}
+
+#h #l{
+    position: relative;
+    color: white;
+    font-size: 16px;
+    top: -825px;
+    left: 1140px;
+}
+
+#u #m{
+    position: relative;
+    color: white;
+    top: -380px;
+    font-size: 16px;
+    left: 430px;
+}
+
+#u #n{
+    position: relative;
+    color: white;
+    top: -370px;
+    left: 440px;
+    font-size: 16px;
+}
+
+#u #z{
+    position: relative;
+    color: white;
+    font-size: 16px;
+    left: 770px;
+    top: -445px;
+}
+
+#u #p{
+    position: relative;
+    color: white;
+    top: -443px;
+    font-size: 16px;
+    left: 775px;
+}
+
+#u #q{
+    position: relative;
+    color: white;
+    top: -529px;
+    font-size: 16px;
+    left: 1140px;
+}
+
+#u #r{
+    position: relative;
+    color: white;
+    font-size: 16px;
+    left: 1135px;
+    top: -542px;
+}
+
+select{
+    border: 0px;
+    outline: 0px;
+    border: none;
+}
+
+.border7{
+    position: relative;
+    border: 1px solid grey;
+    top: -2550px;
+}
+
+.Vans .vans{
+    width: 330px;
+    height: 350px;
+}
+
+#Photos .image5{
+    display: inline;
+    position: relative;
+    width: 330px;
+    height: 350px;
+    left: 320px;
+    top: -290px;
+    margin: 3px;
+}
+
+#Name .srew{
+  position: relative;
+  top: -2150px;
+  text-align: center;
+  left: -180px;
+  color: white;
+}
+
+#Name .sewq{
+  color: white;
+  position: relative;
+  top: -2150px;
+  left: 465px;
+}
+
+#Name .seqe{
+  color: white;
+  position: relative;
+  top: -2218px;
+  left:  785px;
+}
+
+#Name .stew{
+  color: white;
+  position: relative;
+  top: -2218px;
+  left: 800px;
+}
+
+#Name .steq{
+  position: relative;
+  color: white;
+  top: -2286px;
+  left: 1130px;
+}
+
+#Name .sqa{
+  position: relative;
+  color: white;
+  top: -2286px;
+  left: 1150px;
+}
+
+#Name .qwr{
+  position: relative;
+  color: white;
+  top: -1900px;
+  left: 435px;
+}
+
+#Name .qas{
+  position: relative;
+  color: white;
+  top: -1900px;
+  left: 457px;
+}
+
+#Name .qw{
+  position: relative;
+  top: -1968px;
+  left: 800px;
+  color: white;
+}
+
+#Name .r{
+  position: relative;
+  top: -1965px;
+  left: 811px;
+  color: white;
+}
+
+#Name .bd{
+  position: relative;
+  top: -2035px;
+  left: 1125px;
+  color: white;
+}
+
+#Name .a{
+  position: relative;
+  color: white;
+  top: -2030px;
+  left: 1153px;
+}
+
+#Name .c{
+  position: relative;
+  top: -1625px;
+  left: 430px;
+  color: white;
+}
+
+#Name .z{
+  position: relative;
+  top: -1625px;
+  left: 457px;
+  color: white;
+}
+
+#Name .ac{
+  position: relative;
+  top: -1692px;
+  left: 765px;
+  color: white;
+}
+
+#Name .ca{
+  position: relative;
+  color: white;
+  top: -1692px;
+  left: 797px;
+}
+
+#Name .rt{
+  position: relative;
+  color: white;
+  top: -1757px;
+  left: 1130px;
+}
+
+#Name .al{
+  position: relative;
+  top: -1757px;
+  left: 1155px;
+  color: white;
+}
+
+#Name .tt{
+  color: blue;
+  position: relative;
+  top: -1365px;
+  left: 450px;
+}
+
+#Name .ee{
+  position: relative;
+  color: white;
+  top: -1365px;
+  left: 455px;
+}
+
+#Name .yy{
+  position: relative;
+  color: white;
+  top: -1433px;
+  left: 770px;
+}
+
+#Name .yur{
+  position: relative;
+  top: -1498px;
+  left: 1140px;
+  color: white;
+}
+
+#Name .asc{
+  position: relative;
+  top: -1500px;
+  left: 1150px;
+  color: white;
+}
+
+#Name .trey{
+  position: relative;
+  top: -1100px;
+  color: white;
+  left: 450px;
+}
+
+#Name .rex{
+  position: relative;
+  color: white;
+  top: -960px;
+  left: 465px;
+}
+
+#Name .yis{
+  position: relative;
+  top: -1163px;
+  left: 780px;
+  color: white;
+}
+
+#Name .tryy{
+  position: relative;
+  top: -1163px;
+  left: 820px;
+  color: white;
+}
+
+#Name .idde{
+  position: relative;
+  top: -1224px;
+  left: 1150px;
+  color: white;
+}
+
+#Name .resc{
+  position: relative;
+  top: -1227px;
+  left: 1155px;
+  color: white;
+}
